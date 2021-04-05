@@ -1,0 +1,25 @@
+{
+    "name": "lengocquy112/web2",
+    "description": "Manage post",
+    "keywords": [
+        "foostart",
+        "laravel 5 package post"
+    ],
+    "authors": [
+        {
+            "name": "FooStart",
+            "email": "foostart.com@gmail.com",
+            "homepage": "http://tailieuweb.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "nguyenlam0305/backend": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lengocquy112\\web2\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
