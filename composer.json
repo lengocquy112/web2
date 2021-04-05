@@ -14,7 +14,9 @@
     ],
     "license": "MIT",
     "require": {
-        "nguyenlam0305/backend": "*"
+        "nguyenlam0305/backend": "*",
+        "namnguyen213/backend": "*",
+        "khanhu26/huynhnhu": "*"
     },
     "autoload": {
         "psr-4": {
